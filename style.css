@@ -8,17 +8,17 @@
  
  @font-face  {
  				font-family: 'kregular';
- 				src: url('font/Karla/static/Karla-Regular.ttf');
+ 				src: url('Karla-Regular.ttf');
  }
  
  @font-face  {
  				font-family: 'kbold';
- 				src: url('font/Karla/static/Karla-Bold.ttf');
+ 				src: url('Karla-Bold.ttf');
  }
  
  @font-face  {
  				font-family: 'display';
- 				src: url('font/DM_Serif_Display/DMSerifDisplay-Regular.ttf');
+ 				src: url('DMSerifDisplay-Regular.ttf');
  }
  
  body {
